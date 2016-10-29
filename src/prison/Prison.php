@@ -4,6 +4,7 @@ namespace prison;
 use pocketmine\plugin\PluginBase;
 use pocketmine\plugin\Plugin;
 use pocketmine\utils\TextFormat as Text;
+use pocketmine\utils\Config;
 use pocketmine\Player;
 
 use prison\economy\Economy;
